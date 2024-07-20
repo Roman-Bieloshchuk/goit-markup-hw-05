@@ -610,8 +610,26 @@ img {
     0 2px 1px 0 rgba(0, 0, 0, 0.2);
   background-color: #fcfcfc;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  padding: 24px;
 }
 
-..backdrope:not(.is-open) .modal {
+.backdrope:not(.is-open) .modal {
   transform: translate(-50%, -50%) scale(1.5);
+}
+
+.button {
+}
+
+.modal-close-btn {
+  border-radius: 100%;
+  background-color: #e7e9fc;
+  stroke-width: 1px;
+  stroke: rgba(0, 0, 0, 0.1);
+
+  position: absolute;
+  top: 24px;
+  right: 24px;
+}
+
+.button-close {
 }
