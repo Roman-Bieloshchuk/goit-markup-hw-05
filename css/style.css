@@ -699,6 +699,7 @@ color: #fff;
   padding-right: 24px;
   padding-bottom: 24px;
   padding-left: 24px;
+  margin-bottom: 8px;
 }
 
 .backdrope:not(.is-open) .modal {
@@ -798,12 +799,12 @@ color: #fff;
 
 .modal-field {
   position: relative;
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
 
 .modal-form-window {
- position: relative;
- /* margin-bottom: 8px;  */
+ /* position: relative; */
+ margin-bottom: 8px; 
 }
 
 .modal-icon {
