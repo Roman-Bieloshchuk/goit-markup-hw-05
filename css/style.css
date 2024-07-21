@@ -794,7 +794,7 @@ color: #fff;
   display: block;
 }
 .modal-form {
-
+margin-bottom: 16px;
 }
 
 .modal-field {
@@ -845,7 +845,7 @@ color: #fff;
   line-height: 1.16667;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
-  margin-bottom: 16px;
+  /* margin-bottom: 16px; */
   padding: 8px 16px;
 }
 
