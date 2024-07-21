@@ -793,7 +793,7 @@ color: #fff;
   display: block;
 }
 .modal-form {
-  
+
 }
 
 .modal-field {
@@ -803,7 +803,7 @@ color: #fff;
 
 .modal-form-window {
  position: relative;
- margin-bottom: 8px; 
+ /* margin-bottom: 8px;  */
 }
 
 .modal-icon {
