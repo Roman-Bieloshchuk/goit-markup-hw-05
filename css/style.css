@@ -795,11 +795,11 @@ color: #fff;
 
 .modal-icon {
   fill: #2e2f42;
-  /* stroke: #2e2f42; */
+ 
   position: absolute;
   left: 16px;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-20%);
 }
 
 .modal-comment {
