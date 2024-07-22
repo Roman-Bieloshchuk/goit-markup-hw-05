@@ -761,6 +761,8 @@ color: #fff;
   max-width: 360px;
   margin-bottom: 16px;
   text-align: center;
+  /* margin-bottom: 24px; */
+
 }
 
 .modal-input {
@@ -808,13 +810,15 @@ margin-bottom: 16px;
 
 .modal-field {
   position: relative;
-  margin-bottom: 24px;
-  /* margin-bottom: 8px; */
+  /* margin-bottom: 24px; */
+  margin-bottom: 8px;
+  /* display: flex;
+  gap: 8px; */
 }
 
 .modal-form-window {
  /* position: relative; */
- margin-bottom: 8px; 
+ /* margin-bottom: 8px;  */
 }
 
 .modal-icon {
@@ -881,7 +885,7 @@ margin-bottom: 16px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
+  /* display: flex; */
   align-items: center;
   gap: 8px;
   margin-bottom: 24px;
@@ -957,6 +961,8 @@ color: #404bbf;
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
+  
 }
 
 is-open
