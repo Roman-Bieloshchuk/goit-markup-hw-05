@@ -822,7 +822,11 @@ img {
 
 .modal-form-window {
   /* position: relative; */
-  /* margin-bottom: 8px;  */
+  margin-bottom: 8px;
+}
+
+.modal-field-form {
+  margin-bottom: 16px;
 }
 
 .modal-icon {
